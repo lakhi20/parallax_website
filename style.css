@@ -88,11 +88,11 @@ h3{
 }
 
 .para1{
-background-color: aliceblue;
+/* background-color: aliceblue; */
 font-size: 20px;
 margin-top: 3%;
 margin-left: 2%;
-color: black;
+color: rgb(253, 251, 251);
 padding: 1%;
 margin-right: 1%;
 }
