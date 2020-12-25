@@ -1,111 +1,97 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    color: white;
-    
-
-    
-    
-}
-    
-.parallaxbg1{
-    background-image: url("image/pic.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 700px;
-    
+* {
+  margin: 0px;
+  padding: 0px;
+  color: white;
 }
 
-
-.navbar-brand{
-    
-    font-size: 1.5rem;
-    padding: 1%;
-}
-.parallaxbg2{
-    background-image: url("image/pic1.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-
-    
-}
-.parallaxbg3{
-    background-image: url("image/pic2.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    
+.parallaxbg1 {
+  background-image: url("image/pic.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
 }
 
-.parallaxbg4{
-    background-image: url("image/pic3.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    
+.navbar-brand {
+  font-size: 1.5rem;
+  padding: 1%;
+}
+.parallaxbg2 {
+  background-image: url("image/pic1.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.parallaxbg3 {
+  background-image: url("image/pic2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
 }
 
-.form-area{
-    
-    padding: 30px 30px;
-    border-radius: 10px;
-    box-shadow:11px 11px 60px #000;
-     width:30%;
-     margin-left: 15%;
-     margin-top: 3%;
-     margin-bottom: 3%;
-
-}
-h1{
-    text-transform: uppercase;
-    font-size: 1.5em;
-    text-align: center;
-    margin-bottom: 1em;
+.parallaxbg4 {
+  background-image: url("image/pic3.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
 }
 
-
-.banner-area{
-
-    width: 30%;
-    
-    border-radius: 10px; 
-    height: 40%;
-    font-size:25px;
-    margin-left: 10%;
-    margin-top: 10%;
+.form-area {
+  padding: 30px 30px;
+  border-radius: 10px;
+  box-shadow: 11px 11px 60px #000;
+  width: 30%;
+  margin-left: 15%;
+  margin-top: 3%;
+  margin-bottom: 3%;
 }
-h3{
-    text-align: center;
-}
-
-.para1{
-/* background-color: aliceblue; */
-font-size: 20px;
-margin-top: 3%;
-margin-left: 2%;
-color: rgb(253, 251, 251);
-padding: 1%;
-margin-right: 1%;
+h1 {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  text-align: center;
+  margin-bottom: 1em;
 }
 
-.img{
-    margin-top: 3%;
+.banner-area {
+  width: 30%;
+
+  border-radius: 10px;
+  height: 40%;
+  font-size: 25px;
+  margin-left: 10%;
+  margin-top: 10%;
 }
-#footer{
-    text-align: center;
-  padding: 3% 15%;
-  }
-  .footer{
-    color: #0c0e0e;
-    font-size: 20px;
-    font-weight: bold;
-  }
+h3 {
+  text-align: center;
+}
+
+.para1 {
+  /* background-color: aliceblue; */
+  font-size: 20px;
+  margin-top: 3%;
+  margin-left: 2%;
+  color: rgb(253, 251, 251);
+  padding: 1%;
+  margin-right: 1%;
+}
+
+.img {
+  margin-top: 3%;
+}
+#footer {
+  text-align: center;
+  padding: 1% 15%;
+  background: #212529;
+}
+.footer {
+  color: #c9dfdf;
+  font-size: 20px;
+  font-weight: bold;
+}
